@@ -1,6 +1,7 @@
 import React, { useState } from "react";
 
 const NameChange = () => {
+  //use hooks at the top level and dont call hooks inside loops, conditions or nexsted functions
   const [firstName, setFirstName] = useState("Harry");
   const [lastName, setLastName] = useState("Potter");
 
