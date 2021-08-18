@@ -1,6 +1,6 @@
 import React from "react";
-import Count3 from "./components/Count3";
-import Counter from "./components/Counter";
+import Count3 from "./useStateComponents/Count3";
+import Counter from "./useStateComponents/Counter";
 
 //import NameChange from "./components/NameChange";
 //import Color from "./components/Color";
