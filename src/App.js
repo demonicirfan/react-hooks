@@ -1,5 +1,5 @@
 import React from "react";
-import Count2 from "./components/Count2";
+import Count3 from "./components/Count3";
 import Counter from "./components/Counter";
 
 //import NameChange from "./components/NameChange";
@@ -8,7 +8,7 @@ import Counter from "./components/Counter";
 const App = () => {
   return (
     <div>
-      <Count2 />
+      <Count3 />
     </div>
   );
 };

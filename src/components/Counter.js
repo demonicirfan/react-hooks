@@ -4,6 +4,7 @@ const Counter = () => {
   const initialCount = 0;
   const [count, setCount] = useState(initialCount);
 
+
   const resetHandler = () => {
     setCount(initialCount);
   };
